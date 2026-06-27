@@ -276,11 +276,7 @@ This dashboard enables business users to:
 
 **Rishith Kumar**
 
-📧 Email: *Your Email*
-
-💼 LinkedIn: *Your LinkedIn Profile*
-
-🌐 GitHub: https://github.com/YourGitHub
+📧 Email : rishithkumar640@gmail.com
 
 ---
 
